@@ -1,0 +1,4 @@
+(executable
+ (public_name helloWeb)
+ (name main)
+ (libraries helloWeb))

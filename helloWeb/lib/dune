@@ -1,0 +1,4 @@
+(executable
+ (name helloWeb)
+ (libraries dream)
+ (preprocess (pps lwt_ppx)))

@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/helloWeb/META"
+  "_build/install/default/lib/helloWeb/dune-package"
+  "_build/install/default/lib/helloWeb/opam"
+]
+bin: [
+  "_build/install/default/bin/helloWeb"
+]
